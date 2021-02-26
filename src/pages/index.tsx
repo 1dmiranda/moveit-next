@@ -26,7 +26,7 @@ export default function Home({level, currentExperience, challengesCompleted}: Ho
     >
       <div className={styles.container}>
         <Head>
-          <title>Início | move.itt</title>
+          <title>Início | moviement</title>
         </Head>
         <ExperienceBar/>
 
